@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "F097322E5384FA11FB2F6BEE438B2CF9",
+  "keywordClasses": [
+    {
+      "name": "clickup.ClickupUtil",
+      "keywordMethods": [
+        {
+          "name": "login",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

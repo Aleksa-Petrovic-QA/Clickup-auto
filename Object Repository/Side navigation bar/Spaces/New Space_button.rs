@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>New Space_button</name>
+   <tag></tag>
+   <elementGuidId>521c18f1-6671-48b4-9cfb-5f9bd66413c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.cu2-project-list-bar__new-toggle.ng-tns-c735-15</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-root[@id='app-root']/cu-app-shell/cu-manager/div/div/div[2]/cu-simple-bar/div/div[3]/div[7]/cu2-project-list-bar/div/cu-search-list/div[3]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c531b352-209c-43e6-90f8-1dcc1cc164a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>project-list-bar__new-toggle</value>
+      <webElementGuid>3738ce10-0ade-4549-bde4-119322f1d315</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pendo</name>
+      <type>Main</type>
+      <value>create-new-space-button</value>
+      <webElementGuid>7a7791b3-49d0-455d-8c12-b8a14ff42d95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cu2-project-list-bar__new-toggle ng-tns-c735-15</value>
+      <webElementGuid>f96a8889-60e3-43a3-9e8a-a1b5c5e2147c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New Space</value>
+      <webElementGuid>841d32d3-9a43-42a3-95fa-86ffb650213e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-root&quot;)/cu-app-shell[@class=&quot;ng-star-inserted&quot;]/cu-manager[@class=&quot;ng-tns-c809-3 ng-star-inserted&quot;]/div[@class=&quot;cu-manager2__container ng-tns-c809-3 ng-star-inserted layout-size_default&quot;]/div[@class=&quot;cu-manager2__container-inner ng-tns-c809-3&quot;]/div[@class=&quot;cu-manager2__router-outlet manager-space-bar ng-tns-c809-3&quot;]/cu-simple-bar[@class=&quot;cu-simple-bar cu-hidden-print ng-tns-c777-11 ng-tns-c809-3 ng-star-inserted&quot;]/div[@class=&quot;cu-simple-bar__container ng-tns-c777-11 ng-star-inserted&quot;]/div[@class=&quot;cu-simple-bar__body ng-tns-c777-11&quot;]/div[@class=&quot;cu-simple-bar__spaces ng-tns-c777-11&quot;]/cu2-project-list-bar[@class=&quot;cu2-project-list-bar ng-tns-c735-15 ng-tns-c777-11 ng-star-inserted&quot;]/div[@class=&quot;cu2-project-list-bar__body ng-tns-c735-15 ng-star-inserted&quot;]/cu-search-list[@class=&quot;cu-search-list ng-tns-c735-15 ng-star-inserted&quot;]/div[@class=&quot;cu2-project-list-bar__scrollable ng-trigger ng-trigger-projectsList cu2-project-list-bar__scrollable_expanded&quot;]/div[@class=&quot;cu2-project-list-bar__new ng-tns-c735-15 ng-star-inserted&quot;]/div[@class=&quot;cu2-project-list-bar__new-toggle ng-tns-c735-15&quot;]</value>
+      <webElementGuid>690b682a-00fd-430c-b11d-b80d93727511</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-root[@id='app-root']/cu-app-shell/cu-manager/div/div/div[2]/cu-simple-bar/div/div[3]/div[7]/cu2-project-list-bar/div/cu-search-list/div[3]/div/div</value>
+      <webElementGuid>9f5788dd-6fff-4d07-b3c1-2e618cd70839</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Spaces'])[1]/following::div[4]</value>
+      <webElementGuid>3818c57f-2d16-4a72-a948-0148fffb464a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hide this'])[2]/following::div[11]</value>
+      <webElementGuid>eefa5bc2-e75d-4f85-8922-f3d45356ee60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Everything'])[1]/preceding::div[5]</value>
+      <webElementGuid>fed78b0f-5cd3-4118-8937-08d64d15c3e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S'])[1]/preceding::div[7]</value>
+      <webElementGuid>4cd94be7-b857-4d04-8a60-dc981b3ea658</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='New Space']/parent::*</value>
+      <webElementGuid>ec545031-1e9b-4616-ba3d-d90b3888c163</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//cu-search-list/div[3]/div/div</value>
+      <webElementGuid>5ffcfb90-982f-428c-986b-342a23e7ec17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'New Space' or . = 'New Space')]</value>
+      <webElementGuid>07538412-0187-4ba2-8c4b-e8e5648b1e2a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

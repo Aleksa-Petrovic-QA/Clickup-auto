@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Add View_button</name>
+   <tag></tag>
+   <elementGuidId>e733e3d0-161e-4b2d-b374-136797e8d58f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-root[@id='app-root']/cu-app-shell/cu-manager/div/div/div[2]/main/cu-dashboard/div/cu-views-bar-container/cu2-views-bar/div/cu-view-block/cu-data-view-list/cu-data-view-add-dropdown/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.cu-data-view-list__add.cu-data-view-list__add_tab</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bda1fb2e-9b4c-4b2d-85fa-72aaf0f5c15a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>data-view-list__add</value>
+      <webElementGuid>2524af61-24f1-406e-935f-c538a95344c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cutooltip</name>
+      <type>Main</type>
+      <value>Add View</value>
+      <webElementGuid>ceb55584-2dbc-467f-8a00-9bbea94d0dfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cu-data-view-list__add cu-data-view-list__add_tab</value>
+      <webElementGuid>a0d494b0-a5a1-48a0-8bbb-9879ded5768f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View</value>
+      <webElementGuid>c6ea5ff0-7f1e-48a7-9bec-aa45987f3bb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-root&quot;)/cu-app-shell[@class=&quot;ng-star-inserted&quot;]/cu-manager[@class=&quot;ng-tns-c804-3 ng-star-inserted&quot;]/div[@class=&quot;cu-manager2__container ng-tns-c804-3 ng-star-inserted layout-size_default&quot;]/div[@class=&quot;cu-manager2__container-inner ng-tns-c804-3&quot;]/div[@class=&quot;cu-manager2__router-outlet manager-space-bar ng-tns-c804-3&quot;]/main[@class=&quot;cu-manager2__body ng-tns-c804-3&quot;]/cu-dashboard[@class=&quot;cu-dashboard ng-tns-c936-6 ng-star-inserted&quot;]/div[@class=&quot;cu-dashboard__body ng-tns-c936-6 cu-dashboard__body_v6&quot;]/cu-views-bar-container[@class=&quot;ng-tns-c936-6 ng-star-inserted&quot;]/cu2-views-bar[@class=&quot;cu2-views-bar ng-tns-c922-8 cu-hidden-print cu2-views-bar_v6 ng-star-inserted cu2-views-bar_list&quot;]/div[@class=&quot;cu2-views-bar__container ng-tns-c922-8 cu2-views-bar__container_spaces-bar-collapsed ng-star-inserted&quot;]/cu-view-block[@class=&quot;cu-view-block cu2-views-bar__views ng-tns-c922-8 ng-star-inserted&quot;]/cu-data-view-list[@class=&quot;cu-data-view-list ng-star-inserted&quot;]/cu-data-view-add-dropdown[@class=&quot;cu-data-view-add-dropdown ng-star-inserted&quot;]/div[@class=&quot;cu-dropdown&quot;]/div[@class=&quot;cu-data-view-add-dropdown__toggle cu-data-view-add-dropdown__toggle_layout-6 cu-dropdown__toggle&quot;]/div[@class=&quot;cu-data-view-list__add cu-data-view-list__add_tab&quot;]</value>
+      <webElementGuid>29b8ea78-2778-473e-a3ec-5585de696ff5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-root[@id='app-root']/cu-app-shell/cu-manager/div/div/div[2]/main/cu-dashboard/div/cu-views-bar-container/cu2-views-bar/div/cu-view-block/cu-data-view-list/cu-data-view-add-dropdown/div/div/div</value>
+      <webElementGuid>026fbe3c-7257-4e57-b7b9-bcced8c0f6a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Whiteboard'])[1]/following::div[9]</value>
+      <webElementGuid>390001c7-345b-48bc-bd5e-f6b8a6413bf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Doc'])[1]/following::div[17]</value>
+      <webElementGuid>7db53dd3-2166-4919-b2f0-dad96afcf4cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automate'])[1]/preceding::div[5]</value>
+      <webElementGuid>ee19b17a-48bc-4504-affe-5e18ad2deff1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//cu-data-view-add-dropdown/div/div/div</value>
+      <webElementGuid>970a08d4-3dd3-4923-8db1-bd9f99b1bc18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'View' or . = 'View')]</value>
+      <webElementGuid>fdbf26a1-36ab-4741-8ff8-caa68242966d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

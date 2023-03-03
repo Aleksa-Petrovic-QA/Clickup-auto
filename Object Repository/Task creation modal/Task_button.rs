@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Task_button</name>
+   <tag></tag>
+   <elementGuidId>0df803dc-4ace-4fe8-ab77-4226bfd0efe6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-root[@id='app-root']/cu-app-shell/cu-manager/cu-float-button/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.cu-float-button__toggle-simple-container-create-task.ng-tns-c747-9.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-test = 'float-button__toggle-simple-container-create-task' and (text() = ' Task ' or . = ' Task ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c4f4d8d9-db48-484b-9eb5-556906d093e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>float-button__toggle-simple-container-create-task</value>
+      <webElementGuid>19cc39c3-2c25-4a92-9aad-5d751e5ca06d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cu-float-button__toggle-simple-container-create-task ng-tns-c747-10 ng-star-inserted</value>
+      <webElementGuid>fc757c14-0178-4fe3-8130-920da7022c57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Task </value>
+      <webElementGuid>263c3815-3b1d-45fc-ad1b-5fe8c954a73c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-root&quot;)/cu-app-shell[@class=&quot;ng-star-inserted&quot;]/cu-manager[@class=&quot;ng-tns-c804-3 ng-star-inserted&quot;]/cu-float-button[@class=&quot;cu-float-button cu-dashboard-fullscreen_hidden ng-tns-c747-10 ng-tns-c804-3 cu-float-button_simple ng-star-inserted&quot;]/div[@class=&quot;cu-float-button__toggle-simple ng-tns-c747-10&quot;]/div[@class=&quot;cu-float-button__toggle-simple-container ng-tns-c747-10&quot;]/div[@class=&quot;cu-float-button__toggle-simple-container-create-task ng-tns-c747-10 ng-star-inserted&quot;]</value>
+      <webElementGuid>0ad85a7d-02e2-4cb5-bf11-5b2a5630d79e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-root[@id='app-root']/cu-app-shell/cu-manager/cu-float-button/div/div[2]/div</value>
+      <webElementGuid>e3124a74-456a-49cc-908c-954df2189668</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='add new status'])[2]/following::div[20]</value>
+      <webElementGuid>5a704e0e-b9be-4efb-80fd-5afe9b283a1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Calculate'])[3]/following::div[26]</value>
+      <webElementGuid>8022685b-fe8e-43d7-9527-3c6f3cd4928a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ClickUp is best experienced using our mobile app.'])[1]/preceding::div[13]</value>
+      <webElementGuid>b8ace695-fccc-4d8d-9bdf-14824593c5c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//cu-float-button/div/div[2]/div</value>
+      <webElementGuid>86194642-4967-4f09-ba1a-3ab8f3dc64a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Task ' or . = ' Task ')]</value>
+      <webElementGuid>4589f0f3-56da-43d9-af5b-e7e410aaa70e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

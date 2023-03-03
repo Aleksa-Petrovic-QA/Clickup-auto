@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Task successfully moved to Complete status modal</name>
+   <tag></tag>
+   <elementGuidId>91b89bff-4ccb-4c6e-bd9b-50d32e166a7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-root[@id='app-root']/cu-app-shell/cu-manager/cu-undo-toast-items/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.toast__undo.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3b743c1a-15af-4c1a-81c6-44dbf86e494a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>undo-toast-items__toast-undo</value>
+      <webElementGuid>0f2c1251-6389-4cf7-94c4-6162eca1627c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toast__undo ng-star-inserted</value>
+      <webElementGuid>4284e716-4763-4504-8c64-bf641bc0f071</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>complete</value>
+      <webElementGuid>7e3d8407-fd94-424f-a981-1d04a07ad965</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-root&quot;)/cu-app-shell[@class=&quot;ng-star-inserted&quot;]/cu-manager[@class=&quot;ng-tns-c750-3 ng-star-inserted&quot;]/cu-undo-toast-items[@class=&quot;toast cu-hidden-print ng-tns-c750-3 ng-star-inserted&quot;]/div[@class=&quot;toast__undo ng-star-inserted&quot;]</value>
+      <webElementGuid>623cf229-86da-4ddb-9992-ce71b691065b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-root[@id='app-root']/cu-app-shell/cu-manager/cu-undo-toast-items/div</value>
+      <webElementGuid>ca3de423-0a8e-474f-891a-a5fd4ac2620e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Calculate'])[3]/following::div[9]</value>
+      <webElementGuid>b729d489-150f-487f-82c7-eb163cd6f8ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Priority'])[3]/following::div[27]</value>
+      <webElementGuid>8f26b8ae-4125-4f87-b503-d049377617b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//cu-undo-toast-items/div</value>
+      <webElementGuid>c58b218a-0d39-435d-8111-2a975bbcc82e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'task testcomplete Undo ' or . = 'task testcomplete Undo ')]</value>
+      <webElementGuid>58481729-4e95-45bb-8b45-06520af8d20d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

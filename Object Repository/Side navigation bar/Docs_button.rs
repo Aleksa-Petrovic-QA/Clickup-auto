@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Docs_button</name>
+   <tag></tag>
+   <elementGuidId>634ec069-0ff8-4af1-b44f-e7fb88d54e51</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-root[@id='app-root']/cu-app-shell/cu-manager/div/div/div[2]/cu-simple-bar/div/div[3]/cu-accordion[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.cu-simple-bar__row-label.ng-tns-c711-41</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>244b09a0-dead-461d-8005-5368057c7a65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cu-simple-bar__row-label ng-tns-c711-41</value>
+      <webElementGuid>de18cfd6-254b-4813-a8a6-9616d90f983c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Docs</value>
+      <webElementGuid>1c346996-ef85-47f5-9ff9-cb2a691eb7e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-root&quot;)/cu-app-shell[@class=&quot;ng-star-inserted&quot;]/cu-manager[@class=&quot;ng-tns-c750-3 ng-star-inserted&quot;]/div[@class=&quot;cu-manager2__container ng-tns-c750-3 ng-star-inserted layout-size_default&quot;]/div[@class=&quot;cu-manager2__container-inner ng-tns-c750-3&quot;]/div[@class=&quot;cu-manager2__router-outlet manager-space-bar ng-tns-c750-3&quot;]/cu-simple-bar[@class=&quot;cu-simple-bar cu-hidden-print ng-tns-c718-39 ng-tns-c750-3 ng-star-inserted&quot;]/div[@class=&quot;cu-simple-bar__container ng-tns-c718-39 ng-star-inserted&quot;]/div[@class=&quot;cu-simple-bar__body ng-tns-c718-39&quot;]/cu-accordion[@class=&quot;cu-accordion cu-simple-bar__row ng-tns-c711-41 ng-tns-c718-39 ng-star-inserted&quot;]/div[@class=&quot;cu-accordion__toggle ng-tns-c711-41&quot;]/div[@class=&quot;cu-simple-bar__row-label ng-tns-c711-41&quot;]</value>
+      <webElementGuid>10527b7f-5364-4b0b-8d1e-866e0645cda1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-root[@id='app-root']/cu-app-shell/cu-manager/div/div/div[2]/cu-simple-bar/div/div[3]/cu-accordion[2]/div/div</value>
+      <webElementGuid>2e2a1a1b-ac8d-431c-bfb8-d659b8ac06a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My private dashboards'])[1]/following::div[9]</value>
+      <webElementGuid>9198c5da-5af8-4bfc-879b-77668fc5117c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboards'])[1]/following::div[17]</value>
+      <webElementGuid>afdb1dda-196e-4821-acd9-dfa1a8c57ec4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add new'])[1]/preceding::div[3]</value>
+      <webElementGuid>4ed30874-5866-49d5-aa83-287c5d16dbf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/preceding::div[5]</value>
+      <webElementGuid>dd983002-57b8-456d-bb15-e45fa7797567</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Docs']/parent::*</value>
+      <webElementGuid>334c7e99-ef4d-42e3-bae6-b712f78b6c0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//cu-accordion[2]/div/div</value>
+      <webElementGuid>506b8c28-2d73-4190-a488-ed934cd30769</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Docs' or . = 'Docs')]</value>
+      <webElementGuid>7b6b9875-5c6d-4382-9110-5f4e97ff4e1b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

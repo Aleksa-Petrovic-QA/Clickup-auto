@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Notifications_button</name>
+   <tag></tag>
+   <elementGuidId>e48d311b-4ffa-4291-99d6-0338aabd02de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-root[@id='app-root']/cu-app-shell/cu-manager/div/div/div[2]/cu-simple-bar/div/div[3]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b043b924-74c9-4061-969d-a1da13d812e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cu-simple-bar__item ng-tns-c718-39</value>
+      <webElementGuid>af124eba-cc89-488d-bd06-c75c84413ccf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://app.clickup.com/9004055579/notifications</value>
+      <webElementGuid>032ad658-b632-4f53-bc24-47a5f8b4e356</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Notifications </value>
+      <webElementGuid>4890473a-80e0-4130-86ac-11c6e6a7cf10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-root&quot;)/cu-app-shell[@class=&quot;ng-star-inserted&quot;]/cu-manager[@class=&quot;ng-tns-c750-3 ng-star-inserted&quot;]/div[@class=&quot;cu-manager2__container ng-tns-c750-3 ng-star-inserted layout-size_default&quot;]/div[@class=&quot;cu-manager2__container-inner ng-tns-c750-3&quot;]/div[@class=&quot;cu-manager2__router-outlet manager-space-bar ng-tns-c750-3&quot;]/cu-simple-bar[@class=&quot;cu-simple-bar cu-hidden-print ng-tns-c718-39 ng-tns-c750-3 ng-star-inserted&quot;]/div[@class=&quot;cu-simple-bar__container ng-tns-c718-39 ng-star-inserted&quot;]/div[@class=&quot;cu-simple-bar__body ng-tns-c718-39&quot;]/a[@class=&quot;cu-simple-bar__item ng-tns-c718-39&quot;]</value>
+      <webElementGuid>733061f9-b9fa-4894-ad1d-ee32d2cd24db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-root[@id='app-root']/cu-app-shell/cu-manager/div/div/div[2]/cu-simple-bar/div/div[3]/a[2]</value>
+      <webElementGuid>6cdadcf4-86c8-4c87-b5a2-197fa9944db1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[1]</value>
+      <webElementGuid>e5be6172-edf0-4565-b885-61a563509977</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ctrl+K'])[1]/following::a[2]</value>
+      <webElementGuid>233b6089-3572-43d9-b970-266c1e94c068</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pulse'])[1]/preceding::a[1]</value>
+      <webElementGuid>6762661f-20f0-40d5-a519-8ec51d73d708</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://app.clickup.com/9004055579/notifications')]</value>
+      <webElementGuid>f2e1b5e2-dec4-43d1-bb08-eb6ed88856fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a[2]</value>
+      <webElementGuid>453276cc-4998-4860-ae13-eac5b2612ed1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://app.clickup.com/9004055579/notifications' and (text() = ' Notifications ' or . = ' Notifications ')]</value>
+      <webElementGuid>fdc79a2b-f920-44b2-a25b-37accd2a37e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

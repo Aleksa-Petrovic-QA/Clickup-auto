@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Show more_button</name>
+   <tag></tag>
+   <elementGuidId>f19cdb92-aeb0-4f4b-88ac-905428bfe50f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-root[@id='app-root']/cu-app-shell/cu-manager/div/div/div[2]/cu-simple-bar/div/div[3]/div[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.cu-simple-bar__item.cu-simple-bar__item_more.ng-tns-c718-39.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0b0cd982-4ba4-41b4-a28b-4ea5c53d84ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cu-simple-bar__item cu-simple-bar__item_more ng-tns-c718-39 ng-star-inserted</value>
+      <webElementGuid>ebdf3e75-7b3b-4f48-97d2-cc21ea09c7d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Show more</value>
+      <webElementGuid>93193cbe-4872-46a8-836f-946493260fce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-root&quot;)/cu-app-shell[@class=&quot;ng-star-inserted&quot;]/cu-manager[@class=&quot;ng-tns-c750-3 ng-star-inserted&quot;]/div[@class=&quot;cu-manager2__container ng-tns-c750-3 ng-star-inserted layout-size_default&quot;]/div[@class=&quot;cu-manager2__container-inner ng-tns-c750-3&quot;]/div[@class=&quot;cu-manager2__router-outlet manager-space-bar ng-tns-c750-3&quot;]/cu-simple-bar[@class=&quot;cu-simple-bar cu-hidden-print ng-tns-c718-39 ng-tns-c750-3 ng-star-inserted&quot;]/div[@class=&quot;cu-simple-bar__container ng-tns-c718-39 ng-star-inserted&quot;]/div[@class=&quot;cu-simple-bar__body ng-tns-c718-39&quot;]/div[@class=&quot;cu-simple-bar__item cu-simple-bar__item_more ng-tns-c718-39 ng-star-inserted&quot;]</value>
+      <webElementGuid>b53f3116-0e65-4641-bc7c-0cc9584af127</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-root[@id='app-root']/cu-app-shell/cu-manager/div/div/div[2]/cu-simple-bar/div/div[3]/div[5]</value>
+      <webElementGuid>cd8cc653-acd9-47cb-8427-54c34c83f764</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Goals'])[1]/following::div[1]</value>
+      <webElementGuid>c48a5dff-fa45-4ef8-8c1d-0daf4884ceba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pulse'])[1]/following::div[3]</value>
+      <webElementGuid>b085b251-b3b0-42e6-a58a-3146652b3c54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Favorites'])[1]/preceding::div[4]</value>
+      <webElementGuid>92bb6a02-be5b-4dc3-86a5-39fafa75e7d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[5]</value>
+      <webElementGuid>c713bf16-1720-42bb-ba31-be813f7f40f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Show more' or . = 'Show more')]</value>
+      <webElementGuid>1e3987c4-943c-4e4e-9ef4-650157480645</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

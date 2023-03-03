@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Space successfully removed modal</name>
+   <tag></tag>
+   <elementGuidId>d03a0fe8-1bf5-465c-9288-1555d8036f29</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.toast__undo.toast__undo_deleted.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-root[@id='app-root']/cu-app-shell/cu-manager/cu-undo-toast-items/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7a8b3816-7fa3-4a46-89cb-00880981875e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>undo-toast-items__toast-undo</value>
+      <webElementGuid>d63576d3-e165-4f88-a1a9-49f66d94686e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toast__undo toast__undo_deleted ng-star-inserted</value>
+      <webElementGuid>8dfa510f-bf15-4467-b2be-9d740403c16f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Space  moved to trash Undo </value>
+      <webElementGuid>7e74e4ff-587b-4bdb-821a-ceeac0c0e22b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-root&quot;)/cu-app-shell[@class=&quot;ng-star-inserted&quot;]/cu-manager[@class=&quot;ng-tns-c755-3 ng-star-inserted&quot;]/cu-undo-toast-items[@class=&quot;toast cu-hidden-print ng-tns-c755-3 ng-star-inserted&quot;]/div[@class=&quot;toast__undo toast__undo_deleted ng-star-inserted&quot;]</value>
+      <webElementGuid>c5060946-29bf-4ad7-9962-6d98e6884513</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-root[@id='app-root']/cu-app-shell/cu-manager/cu-undo-toast-items/div</value>
+      <webElementGuid>ce6d4305-6353-4770-92b4-2da293faff2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Calculate'])[1]/following::div[9]</value>
+      <webElementGuid>ea0717d5-2447-4fda-8795-6936f0ea78e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Priority'])[1]/following::div[27]</value>
+      <webElementGuid>57fdb16d-63c9-4fd0-afde-a5f0bd33e336</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//cu-undo-toast-items/div</value>
+      <webElementGuid>b4bba25a-290e-4cec-a40c-49ab8e529779</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Space  moved to trash Undo ' or . = ' Space  moved to trash Undo ')]</value>
+      <webElementGuid>7452f226-d90a-40fb-8a49-ab269d6dbaf8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>List view selector dropdown</name>
+   <tag></tag>
+   <elementGuidId>052cb67f-07f7-47e1-a129-d72887f7ce9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-root[@id='app-root']/cu-app-shell/cu-manager/div/div/div[2]/main/cu-dashboard/div/cu-views-bar-container/cu2-views-bar/div/cu-view-block/cu-data-view-list/div/div[2]/cu-data-view-group/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.cu-data-view-group__count</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ed342061-1369-45cc-b4bf-862d1a6e5256</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>data-view-group__count</value>
+      <webElementGuid>54c4c329-62ba-4010-b012-1eb68f8f366c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cu-data-view-group__count</value>
+      <webElementGuid>f32be876-e0de-4d3c-afaa-2e5d1e184400</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 2 </value>
+      <webElementGuid>8ce74e8b-e47c-460d-961c-0761c183a7cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-root&quot;)/cu-app-shell[@class=&quot;ng-star-inserted&quot;]/cu-manager[@class=&quot;ng-tns-c804-3 ng-star-inserted&quot;]/div[@class=&quot;cu-manager2__container ng-tns-c804-3 ng-star-inserted layout-size_default&quot;]/div[@class=&quot;cu-manager2__container-inner ng-tns-c804-3&quot;]/div[@class=&quot;cu-manager2__router-outlet manager-space-bar ng-tns-c804-3&quot;]/main[@class=&quot;cu-manager2__body ng-tns-c804-3&quot;]/cu-dashboard[@class=&quot;cu-dashboard ng-tns-c936-1043 ng-star-inserted&quot;]/div[@class=&quot;cu-dashboard__body ng-tns-c936-1043 cu-dashboard__body_v6&quot;]/cu-views-bar-container[@class=&quot;ng-tns-c936-1043 ng-star-inserted&quot;]/cu2-views-bar[@class=&quot;cu2-views-bar ng-tns-c922-1044 cu-hidden-print cu2-views-bar_list cu2-views-bar_v6 ng-star-inserted&quot;]/div[@class=&quot;cu2-views-bar__container ng-tns-c922-1044 cu2-views-bar__container_spaces-bar-collapsed ng-star-inserted&quot;]/cu-view-block[@class=&quot;cu-view-block cu2-views-bar__views ng-tns-c922-1044 ng-star-inserted&quot;]/cu-data-view-list[@class=&quot;cu-data-view-list ng-star-inserted&quot;]/div[@class=&quot;cu-data-view-list__items cu-data-view-list__items-group ng-star-inserted&quot;]/div[@class=&quot;cu-data-view-list__scrollable&quot;]/cu-data-view-group[@class=&quot;cu-data-view-group ng-star-inserted&quot;]/div[@class=&quot;cu-dropdown ng-star-inserted&quot;]/div[@class=&quot;cu-data-view-item cu-data-view-item-1 cu-data-view-item_selected cu-data-view-item_tab&quot;]/div[@class=&quot;cu-dropdown__toggle&quot;]/div[@class=&quot;cu-data-view-group__count&quot;]</value>
+      <webElementGuid>3a6c1e5f-d895-4b91-9462-e14390186e13</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-root[@id='app-root']/cu-app-shell/cu-manager/div/div/div[2]/main/cu-dashboard/div/cu-views-bar-container/cu2-views-bar/div/cu-view-block/cu-data-view-list/div/div[2]/cu-data-view-group/div/div/div[2]/div</value>
+      <webElementGuid>19e8acf8-dd4a-4172-ab49-c01dbec36e89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[2]/following::div[2]</value>
+      <webElementGuid>b0e29111-79d6-4675-b5fb-9b26219492c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Everything'])[2]/following::div[15]</value>
+      <webElementGuid>4770656a-26ff-4db1-ae4c-917e41ea6840</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Board'])[1]/preceding::div[5]</value>
+      <webElementGuid>8585ffa5-c101-4b93-aab9-b363bc027e02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Calendar'])[1]/preceding::div[13]</value>
+      <webElementGuid>f3410fce-2959-4e95-94b0-585f0d1b9eec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2']/parent::*</value>
+      <webElementGuid>876f2f97-4bd1-4b82-981c-e6abb6abe0a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div</value>
+      <webElementGuid>66ee296e-2bc6-4539-bf1f-942b44395bbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' 2 ' or . = ' 2 ')]</value>
+      <webElementGuid>85883514-d265-49ec-932f-10346be9c578</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

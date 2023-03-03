@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Calendar view option</name>
+   <tag></tag>
+   <elementGuidId>40e7c013-2574-4bb9-a94d-a207797b4f36</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-7']/div/div/div[2]/div/div[2]/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.cu-data-view-add-dropdown__views-item.cu-data-view-add-dropdown__views-item-calendar.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>22569a77-4a5d-467d-9c55-facb8efcec9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>data-view-add-dropdown__views-item</value>
+      <webElementGuid>40475676-03eb-4fc5-9262-c77f74d428ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cu-data-view-add-dropdown__views-item cu-data-view-add-dropdown__views-item-calendar ng-star-inserted</value>
+      <webElementGuid>32d3ee64-f8a7-4785-87c2-3d25635c0ef7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Calendar </value>
+      <webElementGuid>1de529d9-2de1-430f-8ab0-16e0a0e5fded</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-7&quot;)/div[@class=&quot;cu-data-view-add-dropdown__menu cu-data-view-add-dropdown__menu_layout-6 cu-dropdown__menu_overflow-hidden ng-star-inserted cu-dropdown__menu cu-hidden-print cu-dropdown__menu_left cu-dropdown_open&quot;]/div[@class=&quot;cu-data-view-add-dropdown__menu-inner&quot;]/div[@class=&quot;cu-data-view-add-dropdown__container&quot;]/div[@class=&quot;cu-data-view-add-dropdown__views ng-star-inserted&quot;]/div[@class=&quot;cu-data-view-add-dropdown__views-list ng-star-inserted&quot;]/div[@class=&quot;cu-data-view-add-dropdown__views-item cu-data-view-add-dropdown__views-item-calendar ng-star-inserted&quot;]</value>
+      <webElementGuid>635c8ce5-eb5e-4feb-af6f-0fa59d84cd4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-7']/div/div/div[2]/div/div[2]/div[3]</value>
+      <webElementGuid>fcf04004-9fc1-488f-aca2-976b653a8fe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Board'])[2]/following::div[1]</value>
+      <webElementGuid>2bd1c795-1197-4445-b217-7bbc9916c17e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List'])[5]/following::div[4]</value>
+      <webElementGuid>348e5ce2-77d3-4c74-9acf-e729675bd250</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gantt'])[1]/preceding::div[4]</value>
+      <webElementGuid>537efb3c-94ee-425c-a911-c26256c54686</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div[3]</value>
+      <webElementGuid>d54a7918-d300-4d24-b7c4-8721d8ca7045</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Calendar ' or . = ' Calendar ')]</value>
+      <webElementGuid>0e99669a-a920-442b-8a34-3fe1239f8a80</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

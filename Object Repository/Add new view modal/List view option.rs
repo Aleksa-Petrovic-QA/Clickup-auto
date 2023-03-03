@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>List view option</name>
+   <tag></tag>
+   <elementGuidId>1b35980a-f8a9-467f-a559-04b6d0820e89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-8']/div/div/div[2]/div/div[2]/div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.cu-data-view-add-dropdown__views-item.cu-data-view-add-dropdown__views-item-list.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>40b6ef6e-353d-4d91-85da-97d4fca8ad21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>data-view-add-dropdown__views-item</value>
+      <webElementGuid>1f22e0dd-3776-41f5-951a-2753c55cae7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cu-data-view-add-dropdown__views-item cu-data-view-add-dropdown__views-item-list ng-star-inserted</value>
+      <webElementGuid>37cb7e69-eef3-4bd3-a23d-9ff36891cc23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> List </value>
+      <webElementGuid>0fd72832-626d-4b14-9d27-e56a6fc8ec2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-8&quot;)/div[@class=&quot;cu-data-view-add-dropdown__menu cu-data-view-add-dropdown__menu_layout-6 cu-dropdown__menu_overflow-hidden ng-star-inserted cu-dropdown__menu cu-hidden-print cu-dropdown__menu_left cu-dropdown_open&quot;]/div[@class=&quot;cu-data-view-add-dropdown__menu-inner&quot;]/div[@class=&quot;cu-data-view-add-dropdown__container&quot;]/div[@class=&quot;cu-data-view-add-dropdown__views ng-star-inserted&quot;]/div[@class=&quot;cu-data-view-add-dropdown__views-list ng-star-inserted&quot;]/div[@class=&quot;cu-data-view-add-dropdown__views-item cu-data-view-add-dropdown__views-item-list ng-star-inserted&quot;]</value>
+      <webElementGuid>37495a6a-aae0-4013-97d9-9ba4e95a3631</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-8']/div/div/div[2]/div/div[2]/div</value>
+      <webElementGuid>1bbdf9e3-bd5c-4255-b3aa-6f30b412abf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Task views'])[1]/following::div[2]</value>
+      <webElementGuid>024f9a15-29f0-4cb9-afea-b2622ce2812d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='to view available commands'])[1]/following::div[15]</value>
+      <webElementGuid>a956d173-1dc5-4bf5-a48d-5915dcce605b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Board'])[2]/preceding::div[4]</value>
+      <webElementGuid>5b5d718f-661f-4448-abf3-213e390dbbe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div[2]/div</value>
+      <webElementGuid>d7274a74-f13e-4c5b-bac0-87e320bee98b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' List ' or . = ' List ')]</value>
+      <webElementGuid>98585c1c-186c-4f9b-b57b-3b033e9d546d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

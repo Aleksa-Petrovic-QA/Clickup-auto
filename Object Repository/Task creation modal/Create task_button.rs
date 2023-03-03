@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Create task_button</name>
+   <tag></tag>
+   <elementGuidId>895ae625-93a2-4684-8743-21cbb23f7fbe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-root[@id='app-root']/cu-app-shell/cu-manager/cu-create-task-draft/cu-create-task-draft-lazy/cu-draft-view/div[2]/div[3]/button/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.cu-draft-view__submit-btn.ng-tns-c1126-35.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Create task ctrl + enter ' or . = 'Create task ctrl + enter ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9b53cf92-724c-402f-ae57-911bbc909a9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>draft-view__submit-btn_createTask</value>
+      <webElementGuid>2372a8cb-7f64-4c84-a685-05f2871058db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cu-draft-view__submit-btn ng-tns-c1126-35 ng-star-inserted</value>
+      <webElementGuid>b62a0a8c-e370-47eb-9b8c-589baa4f4ae7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create task ctrl + enter </value>
+      <webElementGuid>36477935-969a-407d-9843-df7ebb98d2ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-root&quot;)/cu-app-shell[@class=&quot;ng-star-inserted&quot;]/cu-manager[@class=&quot;ng-tns-c750-3 ng-star-inserted&quot;]/cu-create-task-draft[@class=&quot;ng-tns-c750-3 ng-star-inserted&quot;]/cu-create-task-draft-lazy[@class=&quot;cu-create-task-draft-lazy ng-star-inserted&quot;]/cu-draft-view[@class=&quot;cu-draft-view ng-tns-c1126-35 ng-star-inserted&quot;]/div[@class=&quot;cu-draft-view__container ng-tns-c1126-35&quot;]/div[@class=&quot;cu-draft-view__footer ng-tns-c1126-35 ng-star-inserted&quot;]/button[@class=&quot;cu-draft-view__submit ng-tns-c1126-35&quot;]/div[@class=&quot;cu-draft-view__submit-btn ng-tns-c1126-35 ng-star-inserted&quot;]</value>
+      <webElementGuid>c8fd9981-6027-431b-ae23-9643f7dd9e79</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-root[@id='app-root']/cu-app-shell/cu-manager/cu-create-task-draft/cu-create-task-draft-lazy/cu-draft-view/div[2]/div[3]/button/div</value>
+      <webElementGuid>847809cb-47b7-49bb-99bc-326d3a04de13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change start and due dates'])[5]/following::div[14]</value>
+      <webElementGuid>e6c05819-8040-48a5-9301-30340492d1c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change priority'])[5]/following::div[21]</value>
+      <webElementGuid>10034686-e513-4455-aa17-1e1207dacf68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button/div</value>
+      <webElementGuid>afc3d6f6-b61b-4100-8758-7aa6d2624fbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Create task ctrl + enter ' or . = 'Create task ctrl + enter ')]</value>
+      <webElementGuid>e967743e-097f-4561-bfc2-35be73466756</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

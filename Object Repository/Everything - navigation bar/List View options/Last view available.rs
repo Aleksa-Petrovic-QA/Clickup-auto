@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Last view available</name>
+   <tag></tag>
+   <elementGuidId>f3419ff1-9aed-4d31-81df-595df2e82201</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-drop-list-389']/cu-data-view-item</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>cu-data-view-item.cu-data-view-item.cdk-drag.cu-data-view-item-1.cu-data-view-item_selected.cu-data-view-item_grouped.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>cu-data-view-item</value>
+      <webElementGuid>ee39fd69-bf66-4a6e-9f9f-b7006a199fb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cu-data-view-item cdk-drag cu-data-view-item-1 cu-data-view-item_selected cu-data-view-item_grouped ng-star-inserted</value>
+      <webElementGuid>dae13726-5528-4eec-9fc9-4098fa29992b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> List </value>
+      <webElementGuid>cde39624-d3e9-4696-a2c7-e564edc119ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-drop-list-389&quot;)/cu-data-view-item[@class=&quot;cu-data-view-item cdk-drag cu-data-view-item-1 cu-data-view-item_selected cu-data-view-item_grouped ng-star-inserted&quot;]</value>
+      <webElementGuid>44963486-00f7-4e26-8e29-91416387b995</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-drop-list-389']/cu-data-view-item</value>
+      <webElementGuid>4710b636-f221-4e03-a79f-273b6ea34998</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(required)'])[1]/following::cu-data-view-item[1]</value>
+      <webElementGuid>c65cdb75-fab5-49af-a163-6a01b131defe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List'])[5]/following::cu-data-view-item[1]</value>
+      <webElementGuid>701f5c95-0a95-4b2c-ae5c-71d9c8236b35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add List View'])[1]/preceding::cu-data-view-item[1]</value>
+      <webElementGuid>bc226d82-8b35-438f-bd75-2c0c8628d2fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/cu-data-view-item</value>
+      <webElementGuid>99b2641b-b0f7-4254-aecb-cdef61c6215b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//cu-data-view-item[(text() = ' List ' or . = ' List ')]</value>
+      <webElementGuid>440bad2f-9c18-4a5c-ba2c-2e6cb3788337</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

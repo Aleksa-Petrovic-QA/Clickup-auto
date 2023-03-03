@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Search_input field</name>
+   <tag></tag>
+   <elementGuidId>2f8bcf4d-1733-4884-b705-609cc0a165ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-root[@id='app-root']/cu-app-shell/cu-manager/div/div/div[2]/cu-simple-bar/div/div[3]/div[3]/cu-search-button/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.cu-search-button__inner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>70a4c19a-69f8-457f-abee-a370a4e5120e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>search__inner</value>
+      <webElementGuid>4893457f-5cc9-4b0b-9c43-f23db9b0aa23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cu-search-button__inner</value>
+      <webElementGuid>413ccb36-5791-440a-9414-7bb206f5b1fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Search Ctrl+K</value>
+      <webElementGuid>5b1a0e12-38a8-41fb-b73c-1599ebae41f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-root&quot;)/cu-app-shell[@class=&quot;ng-star-inserted&quot;]/cu-manager[@class=&quot;ng-tns-c750-3 ng-star-inserted&quot;]/div[@class=&quot;cu-manager2__container ng-tns-c750-3 ng-star-inserted layout-size_default&quot;]/div[@class=&quot;cu-manager2__container-inner ng-tns-c750-3&quot;]/div[@class=&quot;cu-manager2__router-outlet manager-space-bar ng-tns-c750-3&quot;]/cu-simple-bar[@class=&quot;cu-simple-bar cu-hidden-print ng-tns-c718-39 ng-tns-c750-3 ng-star-inserted&quot;]/div[@class=&quot;cu-simple-bar__container ng-tns-c718-39 ng-star-inserted&quot;]/div[@class=&quot;cu-simple-bar__body ng-tns-c718-39&quot;]/div[@class=&quot;cu-simple-bar__search ng-tns-c718-39 ng-star-inserted&quot;]/cu-search-button[@class=&quot;ng-tns-c718-39 cu-search-button_simple-layout cu-search-button&quot;]/div[@class=&quot;cu-search-button__inner&quot;]</value>
+      <webElementGuid>3ec93854-29c0-4d99-b245-1135338fbbf7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-root[@id='app-root']/cu-app-shell/cu-manager/div/div/div[2]/cu-simple-bar/div/div[3]/div[3]/cu-search-button/div</value>
+      <webElementGuid>687500b1-58a6-4e02-b153-9fe40cc019f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//cu-search-button/div</value>
+      <webElementGuid>07b07386-9918-42cf-a3eb-df9ed58a9285</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Search Ctrl+K' or . = ' Search Ctrl+K')]</value>
+      <webElementGuid>f795b7a8-1fe1-41e9-bdb9-ac909af227e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

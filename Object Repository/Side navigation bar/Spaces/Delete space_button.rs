@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Delete space_button</name>
+   <tag></tag>
+   <elementGuidId>4a5428c1-193e-4ebc-816a-515167f4d3c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.nav-menu-item.nav-menu-item__delete_space.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-0']/div/div[7]/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a5b7067e-58c8-494d-9feb-0533272b0736</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>draggable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>e5ef478b-a010-4261-9870-b72d7c6072f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-menu-item nav-menu-item__delete_space ng-star-inserted</value>
+      <webElementGuid>66ae3697-b992-4247-afdb-61cdbf1c2339</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>e17625ac-9266-420c-9385-eacd5bdd8ad7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Delete </value>
+      <webElementGuid>4b1ebb09-7ed3-403c-afd4-8f5f653c8a69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-0&quot;)/div[@class=&quot;nav-menu__controls cu-project-menu__dropdown ng-star-inserted cu-dropdown__menu cu-hidden-print cu-dropdown__menu_left cu-dropdown_open&quot;]/div[@class=&quot;nav-menu__group ng-star-inserted&quot;]/a[@class=&quot;nav-menu-item nav-menu-item__delete_space ng-star-inserted&quot;]</value>
+      <webElementGuid>471e4bf7-6262-4ca3-b49b-fcd6209ae920</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-0']/div/div[7]/a[2]</value>
+      <webElementGuid>a9abae77-3b0b-4edb-a415-1cdfc705669a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Archive'])[1]/following::a[1]</value>
+      <webElementGuid>3f817fc4-5865-4da5-8484-42c6ad8ad841</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More settings'])[1]/following::a[2]</value>
+      <webElementGuid>e643d7da-2c84-4632-9874-9b1b6ecf5dfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sharing &amp; Permissions'])[1]/preceding::a[1]</value>
+      <webElementGuid>89fe80fe-42f6-4c06-bfdc-dbcd51fc0bf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0)')])[11]</value>
+      <webElementGuid>588dcc55-10ec-44cd-ab8a-08c3610588a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/a[2]</value>
+      <webElementGuid>a1d15667-bd01-4625-8dc8-82be6ae50514</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)' and (text() = ' Delete ' or . = ' Delete ')]</value>
+      <webElementGuid>b8f02bba-4f25-455e-bcd6-75ad67aa218b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

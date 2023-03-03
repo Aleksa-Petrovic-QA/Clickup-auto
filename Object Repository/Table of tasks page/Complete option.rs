@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Complete option</name>
+   <tag></tag>
+   <elementGuidId>6d0c7daf-7bd3-4f17-88a1-81bbd787763b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-5']/div/cu-status-list/div/div[3]/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.status-list__item.status-list__item_closed.status-list__item_last.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9c5f62c5-7b9c-4495-aaa4-5491f8978de0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>status-list__item status-list__item_closed status-list__item_last ng-star-inserted</value>
+      <webElementGuid>c9e55b26-2a8a-49d0-b83b-ae8cf4668535</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>status-list__type__closed</value>
+      <webElementGuid>5804f5a0-f200-4cf1-a67c-62cad2f05494</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Complete </value>
+      <webElementGuid>e83c589c-9893-4872-b3e9-68155c0ea497</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-5&quot;)/div[@class=&quot;cu-dropdown__menu cu-dropdown__menu_overflow-hidden ng-star-inserted cu-hidden-print cu-dropdown__menu_left cu-dropdown_open&quot;]/cu-status-list[1]/div[@class=&quot;status-list&quot;]/div[@class=&quot;status-list__container status-list__scroll-view&quot;]/div[@class=&quot;status-list__item status-list__item_closed status-list__item_last ng-star-inserted&quot;]</value>
+      <webElementGuid>f94659a8-aa43-4abd-9830-838c2368d3fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-5']/div/cu-status-list/div/div[3]/div[3]</value>
+      <webElementGuid>06d75319-aad3-460e-bdcb-fd3894194384</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='in progress'])[12]/following::div[1]</value>
+      <webElementGuid>938bd227-8420-4823-ba61-ed4618a6bb3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='to do'])[14]/following::div[3]</value>
+      <webElementGuid>08932808-a8e4-4c8c-a820-f57d6b6cb4c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::div[2]</value>
+      <webElementGuid>09354838-7a4c-4a2c-8b5d-f49846ed9095</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//cu-status-list/div/div[3]/div[3]</value>
+      <webElementGuid>479528d9-90f2-4f45-a593-5cc97e4eb382</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Complete ' or . = ' Complete ')]</value>
+      <webElementGuid>83796293-179f-4cc0-86c2-cdae1e40ccff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

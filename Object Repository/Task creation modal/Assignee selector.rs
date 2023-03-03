@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Assignee selector</name>
+   <tag></tag>
+   <elementGuidId>8b882056-0977-42f6-8462-4b5d3a3e2812</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-root[@id='app-root']/cu-app-shell/cu-manager/cu-create-task-draft/cu-create-task-draft-lazy/cu-draft-view/div[2]/div[2]/div/div/div[2]/cu-user-and-groups-list-dropdown/cu-user-list-dropdown/div/div/cu-user-group/cu-avatar-group/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.cu-user-group__icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3223aaa4-db2e-4f26-824a-44a3006d3a29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>avatar-group_user-group__icon</value>
+      <webElementGuid>42794264-a78f-4b0c-88c9-967c8a2fa3dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cu-user-group__icon</value>
+      <webElementGuid>ebd30f6c-8675-4c91-a9c8-187379a9f595</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-root&quot;)/cu-app-shell[@class=&quot;ng-star-inserted&quot;]/cu-manager[@class=&quot;ng-tns-c750-3 ng-star-inserted&quot;]/cu-create-task-draft[@class=&quot;ng-tns-c750-3 ng-star-inserted&quot;]/cu-create-task-draft-lazy[@class=&quot;cu-create-task-draft-lazy ng-star-inserted&quot;]/cu-draft-view[@class=&quot;cu-draft-view ng-tns-c1126-35 ng-star-inserted&quot;]/div[@class=&quot;cu-draft-view__container ng-tns-c1126-35&quot;]/div[@class=&quot;cu-draft-view__body ng-tns-c1126-35 ng-star-inserted&quot;]/div[@class=&quot;cu-draft-view__scrollable ng-tns-c1126-35&quot;]/div[@class=&quot;cu-draft-view__location ng-tns-c1126-35&quot;]/div[@class=&quot;cu-draft-view__location-assignee ng-tns-c1126-35&quot;]/cu-user-and-groups-list-dropdown[@class=&quot;cu-user-and-groups-list-dropdown cu-user-list-dropdown ng-tns-c1126-35 ng-star-inserted&quot;]/cu-user-list-dropdown[@class=&quot;cu-user-list-dropdown&quot;]/div[@class=&quot;cu-dropdown&quot;]/div[@class=&quot;cu-dropdown__toggle&quot;]/cu-user-group[1]/cu-avatar-group[@class=&quot;cu-user-group_m cu-user-group&quot;]/div[@class=&quot;cu-user-group__item cu-hidden-print cu-user-group__item-assign ng-star-inserted&quot;]/div[@class=&quot;cu-user-group__icon&quot;]</value>
+      <webElementGuid>fe031945-8745-4ca6-96ed-66c62bf83b5b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-root[@id='app-root']/cu-app-shell/cu-manager/cu-create-task-draft/cu-create-task-draft-lazy/cu-draft-view/div[2]/div[2]/div/div/div[2]/cu-user-and-groups-list-dropdown/cu-user-list-dropdown/div/div/cu-user-group/cu-avatar-group/div/div</value>
+      <webElementGuid>3eab1003-455b-48a7-90f4-eff813464431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List'])[5]/following::div[5]</value>
+      <webElementGuid>1801b501-8d61-4fc6-a297-cb2c7a17765a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select List...'])[1]/following::div[11]</value>
+      <webElementGuid>d0dd7665-5215-4bf9-9d60-c8419b5b029a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LINK UNFURL'])[1]/preceding::div[7]</value>
+      <webElementGuid>776e025c-a0f5-4c9c-95d1-eea950af3388</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Task'])[1]/preceding::div[39]</value>
+      <webElementGuid>e24315a9-174e-4cef-a960-2280e35818a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/cu-user-and-groups-list-dropdown/cu-user-list-dropdown/div/div/cu-user-group/cu-avatar-group/div/div</value>
+      <webElementGuid>a8620e8b-8b3e-4340-983f-75a466ae4ee7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

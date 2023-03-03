@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>First TO-DO task</name>
+   <tag></tag>
+   <elementGuidId>7d061ae0-8143-49cd-9242-a31c036abbf6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Priority'])[2]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#task-container-861mebr45 > div.cu-task-row__main > div.cu-task-row__crumbs-wrapper > cu-editable.cu-editable.cu-task-row-main > cu-task-row-main.cu-task-row-main.ng-star-inserted > a.cu-task-row-main__link</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'https://app.clickup.com/t/861mebr45' and (text() = 'asdsaassasda' or . = 'asdsaassasda')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>58758aa1-2100-4afe-9b81-509a4b2b09de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>task-row-main__link</value>
+      <webElementGuid>f6b8afeb-98a8-42ee-a441-3183a6b9a20e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cu-task-row-main__link</value>
+      <webElementGuid>9d83f3f9-06ba-4386-b619-9e6c0c7e85f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://app.clickup.com/t/861mebr45</value>
+      <webElementGuid>58b406d0-f6ff-4ab0-9cd5-e19423872086</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>draggable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>8a690594-4a07-4e6f-bb54-7c3243c2e050</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>asdsaassasda</value>
+      <webElementGuid>f8824249-4af7-465f-8c10-1129947011a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;task-container-861mebr45&quot;)/div[@class=&quot;cu-task-row__main&quot;]/div[@class=&quot;cu-task-row__crumbs-wrapper&quot;]/cu-editable[@class=&quot;cu-editable cu-task-row-main&quot;]/cu-task-row-main[@class=&quot;cu-task-row-main ng-star-inserted&quot;]/a[@class=&quot;cu-task-row-main__link&quot;]</value>
+      <webElementGuid>eac6ea6d-3131-423c-9827-fe6cd027889d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='task-container-861mebr45']/div[2]/div/cu-editable/cu-task-row-main/a</value>
+      <webElementGuid>8a906955-4636-4bb9-bd08-16313281dd3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Priority'])[2]/following::a[1]</value>
+      <webElementGuid>5b42b174-29fc-4d7c-97d0-76bbde66cdb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Due date'])[2]/following::a[1]</value>
+      <webElementGuid>ce77a32d-d40e-4872-a680-9046c813ffbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TT'])[2]/preceding::a[1]</value>
+      <webElementGuid>4e7cc25d-6083-4f6a-b54c-09b490ca4e25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://app.clickup.com/t/861mebr45')]</value>
+      <webElementGuid>c92455d2-fd10-46f0-a7f5-c720fc51beab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//cu-task-list[2]/div/cu-task-row/div/div[2]/div/cu-editable/cu-task-row-main/a</value>
+      <webElementGuid>b4fe5b17-0546-48e7-9fff-b5169b1bb991</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://app.clickup.com/t/861mebr45' and (text() = 'asdsaassasda' or . = 'asdsaassasda')]</value>
+      <webElementGuid>bc14db20-d266-440b-9f15-f9e4a29dfdd0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Descripton_text area</name>
+   <tag></tag>
+   <elementGuidId>0d342065-35c4-4290-85df-435f05494d35</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-root[@id='app-root']/cu-app-shell/cu-manager/cu-create-task-draft/cu-create-task-draft-lazy/cu-draft-view/div[2]/div[2]/div/cu-task-editor/div/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ql-editor.ql-blank.focus-visible</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c6648a06-10df-4a31-ae77-11370216b699</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ql-editor ql-blank focus-visible</value>
+      <webElementGuid>bd4e5fdf-08b2-408b-9432-ed73ca1e7e9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>translate</name>
+      <type>Main</type>
+      <value>no</value>
+      <webElementGuid>2d22aabf-1d2c-4b2c-85a6-37779c1019a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>contenteditable</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>8697a975-7f45-4c7e-9ba7-cf08534cd224</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-placeholder</name>
+      <type>Main</type>
+      <value>Description or type '/' for commands</value>
+      <webElementGuid>bf578c81-a1f6-499f-8419-95bcb3a85c3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-root&quot;)/cu-app-shell[@class=&quot;ng-star-inserted&quot;]/cu-manager[@class=&quot;ng-tns-c750-3 ng-star-inserted&quot;]/cu-create-task-draft[@class=&quot;ng-tns-c750-3 ng-star-inserted&quot;]/cu-create-task-draft-lazy[@class=&quot;cu-create-task-draft-lazy ng-star-inserted&quot;]/cu-draft-view[@class=&quot;cu-draft-view ng-tns-c1126-35 ng-star-inserted&quot;]/div[@class=&quot;cu-draft-view__container ng-tns-c1126-35&quot;]/div[@class=&quot;cu-draft-view__body ng-tns-c1126-35 ng-star-inserted&quot;]/div[@class=&quot;cu-draft-view__scrollable ng-tns-c1126-35&quot;]/cu-task-editor[@class=&quot;cu-task-editor ng-tns-c445-37 ng-tns-c1126-35 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c445-37 cu-editor-wrapper cu-editor-wrapper_create-task cu-editor-wrapper_active cu-editor-wrapper_show-all cu-editor-wrapper_hover&quot;]/div[@class=&quot;cu-editor-content ng-tns-c445-37&quot;]/div[@class=&quot;notranslate cu-editor ng-tns-c445-37 ql-container ql-bubble&quot;]/div[@class=&quot;ql-editor ql-blank focus-visible&quot;]</value>
+      <webElementGuid>8f122e79-86bf-480b-81ab-2b58197491ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-root[@id='app-root']/cu-app-shell/cu-manager/cu-create-task-draft/cu-create-task-draft-lazy/cu-draft-view/div[2]/div[2]/div/cu-task-editor/div/div[2]/div[2]/div</value>
+      <webElementGuid>f5497408-2c18-4f7e-b853-4ec25632fc30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LINK UNFURL'])[1]/following::div[4]</value>
+      <webElementGuid>734d1bbe-aed2-4ddc-b5e1-5b9a6d3aa537</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TT'])[2]/following::div[17]</value>
+      <webElementGuid>add661f8-a3e8-4907-9d90-c86beec3ffd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Task'])[1]/preceding::div[28]</value>
+      <webElementGuid>00418d12-0e7a-42a0-81a9-cd53f2b73dae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Task'])[2]/preceding::div[35]</value>
+      <webElementGuid>3e4cdff9-d314-4623-a01f-d74eb2b0be12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//cu-task-editor/div/div[2]/div[2]/div</value>
+      <webElementGuid>f8be70fb-303a-4095-a45d-a6213973831e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

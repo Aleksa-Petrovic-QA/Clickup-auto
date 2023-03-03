@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Home_button</name>
+   <tag></tag>
+   <elementGuidId>0ec0fe80-bce7-41d8-97d8-28de995a8ffd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-root[@id='app-root']/cu-app-shell/cu-manager/div/div/div[2]/cu-simple-bar/div/div[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.cu-simple-bar__item.cu-simple-bar__item_first.ng-tns-c718-39</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3bff5db9-dd9d-4fcd-914f-35fdd9a15ff7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>simple-sidebar-home-item</value>
+      <webElementGuid>0426bb3c-7bf0-4201-999b-5657b7a2230d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cu-simple-bar__item cu-simple-bar__item_first ng-tns-c718-39</value>
+      <webElementGuid>67ef8b51-4a06-4701-82bb-944e7fcf22af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://app.clickup.com/9004055579/home</value>
+      <webElementGuid>62eee1b0-201c-4ba1-96dc-f6d1f64802d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Home </value>
+      <webElementGuid>65891a6e-f31c-491c-be94-3edadbb1eb70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-root&quot;)/cu-app-shell[@class=&quot;ng-star-inserted&quot;]/cu-manager[@class=&quot;ng-tns-c750-3 ng-star-inserted&quot;]/div[@class=&quot;cu-manager2__container ng-tns-c750-3 ng-star-inserted layout-size_default&quot;]/div[@class=&quot;cu-manager2__container-inner ng-tns-c750-3&quot;]/div[@class=&quot;cu-manager2__router-outlet manager-space-bar ng-tns-c750-3&quot;]/cu-simple-bar[@class=&quot;cu-simple-bar cu-hidden-print ng-tns-c718-39 ng-tns-c750-3 ng-star-inserted&quot;]/div[@class=&quot;cu-simple-bar__container ng-tns-c718-39 ng-star-inserted&quot;]/div[@class=&quot;cu-simple-bar__body ng-tns-c718-39&quot;]/a[@class=&quot;cu-simple-bar__item cu-simple-bar__item_first ng-tns-c718-39&quot;]</value>
+      <webElementGuid>5aff6542-c537-417e-84a1-0741eb209239</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-root[@id='app-root']/cu-app-shell/cu-manager/div/div/div[2]/cu-simple-bar/div/div[3]/a</value>
+      <webElementGuid>1e4ad48a-5854-4cdc-abe2-39e483343006</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ctrl+K'])[1]/following::a[1]</value>
+      <webElementGuid>f4186e1d-6555-4567-8ed4-1103da2291ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::a[1]</value>
+      <webElementGuid>be3a3ae6-82e2-4899-8c3a-b181416f903c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[1]/preceding::a[1]</value>
+      <webElementGuid>4e5d04c9-d5ae-486b-8494-0597a333e15e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://app.clickup.com/9004055579/home')])[3]</value>
+      <webElementGuid>7dd33b68-bae2-46c1-9027-13f9e66bc404</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a</value>
+      <webElementGuid>6c8ae612-9bd2-4e9f-8eb0-e9d5553eee86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://app.clickup.com/9004055579/home' and (text() = ' Home ' or . = ' Home ')]</value>
+      <webElementGuid>f81de406-745b-4c64-9098-12ac7f5825ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

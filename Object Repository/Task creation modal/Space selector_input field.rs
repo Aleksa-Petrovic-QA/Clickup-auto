@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Space selector_input field</name>
+   <tag></tag>
+   <elementGuidId>7563358b-f076-4f9a-af33-477e63d6d4b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-root[@id='app-root']/cu-app-shell/cu-manager/cu-create-task-draft/cu-create-task-draft-lazy/cu-draft-view/div[2]/div[2]/div/div/div/cu-draft-location-selector/div/cu-category-list-dropdown/cu-hierarchy-picker-dropdown/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.cu-draft-location-selector__category-selector</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5527615c-1063-4aa3-b2c5-73bfafe3ee4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cutooltip</name>
+      <type>Main</type>
+      <value>Choose Location</value>
+      <webElementGuid>60c5f228-2248-43de-a1a7-5d04db226f14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cu-draft-location-selector__category-selector</value>
+      <webElementGuid>4e671236-bdbf-400f-9898-b11c7f06d545</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Select List...  List </value>
+      <webElementGuid>3744d0e6-3b12-4d2a-976a-9dc3fb7e39d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-root&quot;)/cu-app-shell[@class=&quot;ng-star-inserted&quot;]/cu-manager[@class=&quot;ng-tns-c750-3 ng-star-inserted&quot;]/cu-create-task-draft[@class=&quot;ng-tns-c750-3 ng-star-inserted&quot;]/cu-create-task-draft-lazy[@class=&quot;cu-create-task-draft-lazy ng-star-inserted&quot;]/cu-draft-view[@class=&quot;cu-draft-view ng-tns-c1126-35 ng-star-inserted&quot;]/div[@class=&quot;cu-draft-view__container ng-tns-c1126-35&quot;]/div[@class=&quot;cu-draft-view__body ng-tns-c1126-35 ng-star-inserted&quot;]/div[@class=&quot;cu-draft-view__scrollable ng-tns-c1126-35&quot;]/div[@class=&quot;cu-draft-view__location ng-tns-c1126-35&quot;]/div[@class=&quot;cu-draft-view__location-location ng-tns-c1126-35&quot;]/cu-draft-location-selector[@class=&quot;cu-draft-location-selector ng-tns-c1126-35 ng-star-inserted&quot;]/div[1]/cu-category-list-dropdown[@class=&quot;cu-category-list-dropdown cu-draft-location-selector__category-list&quot;]/cu-hierarchy-picker-dropdown[1]/div[@class=&quot;cu-dropdown&quot;]/div[@class=&quot;cu-dropdown__toggle&quot;]/div[@class=&quot;cu-draft-location-selector__category-selector&quot;]</value>
+      <webElementGuid>d55d5650-07e9-4677-9291-688683b707e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-root[@id='app-root']/cu-app-shell/cu-manager/cu-create-task-draft/cu-create-task-draft-lazy/cu-draft-view/div[2]/div[2]/div/div/div/cu-draft-location-selector/div/cu-category-list-dropdown/cu-hierarchy-picker-dropdown/div/div/div</value>
+      <webElementGuid>295c9d0e-9142-4ee2-ac0a-4a360f7cfc9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//cu-hierarchy-picker-dropdown/div/div/div</value>
+      <webElementGuid>f5a2af36-075a-403e-8c47-747a59173c66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Select List...  List ' or . = ' Select List...  List ')]</value>
+      <webElementGuid>2f62e238-6300-462f-967e-be05736b5524</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

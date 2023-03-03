@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Type space name_input field</name>
+   <tag></tag>
+   <elementGuidId>2fe70551-8b2b-47d9-aad9-fa9c292f37bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.cu-dc__input.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>ae46b318-786d-4214-af12-6ef1b348a87f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>438b8e10-983e-4ed3-8bcc-ac98f855e47f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cu-dc__input ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>4613b9fa-22c2-419a-a05a-7fc16311f147</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>project-confirm-delete__input__test space</value>
+      <webElementGuid>5074c883-fd09-4346-9f6e-30666994cbdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>test space</value>
+      <webElementGuid>21900dc1-c70e-4c7b-ad27-0ebcf387b5d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>10</value>
+      <webElementGuid>912c4802-a817-4819-9623-015c5dae4d12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-root&quot;)/cu-modal-keeper[1]/cu-modal[@class=&quot;ng-tns-c81-32 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c81-32 cu-modal cu-modal_md cu-modal_open cu-modal_stop-open-animation&quot;]/div[@class=&quot;cu-modal__inner ng-tns-c81-32 ng-trigger ng-trigger-createTaskModalState&quot;]/div[@class=&quot;ng-tns-c81-32 cu-modal__dialog&quot;]/div[@class=&quot;ng-tns-c81-32 cu-modal__body&quot;]/cu-project-confirm-delete[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;cu-dc&quot;]/div[@class=&quot;cu-dc__inner ng-star-inserted&quot;]/input[@class=&quot;cu-dc__input ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>1ceb47f2-9521-42b5-a995-3f65843bb573</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[4]</value>
+      <webElementGuid>ce0f4cf5-9ec4-4e8d-ab47-89183025e662</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-root[@id='app-root']/cu-modal-keeper/cu-modal/div/div[2]/div[2]/div[2]/cu-project-confirm-delete/div/div/input</value>
+      <webElementGuid>9bc2f878-a147-46db-bf2f-1480fc1ba6ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//cu-project-confirm-delete/div/div/input</value>
+      <webElementGuid>d31c0a46-15d0-49a1-b08c-be492db005ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'test space']</value>
+      <webElementGuid>97e6cfe0-b042-473c-ac32-90c6594eeabd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

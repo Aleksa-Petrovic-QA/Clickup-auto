@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Task successfully created modal</name>
+   <tag></tag>
+   <elementGuidId>59648b53-531e-413b-8522-650194754801</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-root[@id='app-root']/cu-app-shell/cu-manager/div[2]/cu-copy-item-toast</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>cu-copy-item-toast.toast__undo.ng-tns-c750-3.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//cu-copy-item-toast[(contains(text(), 'Created!') or contains(., 'Created!'))]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>cu-copy-item-toast</value>
+      <webElementGuid>214c0626-f540-4832-a6fa-f63dc2342058</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toast__undo ng-tns-c750-3 ng-star-inserted</value>
+      <webElementGuid>88556aa1-d2b1-4663-b6ff-f96340f71e43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Created!</value>
+      <webElementGuid>82c3f1a2-8ddb-4bdf-bb43-74c3c9247aa9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-root&quot;)/cu-app-shell[@class=&quot;ng-star-inserted&quot;]/cu-manager[@class=&quot;ng-tns-c750-3 ng-star-inserted&quot;]/div[@class=&quot;toast cu-hidden-print ng-tns-c750-3 ng-star-inserted&quot;]/cu-copy-item-toast[@class=&quot;toast__undo ng-tns-c750-3 ng-star-inserted&quot;]</value>
+      <webElementGuid>53c20b23-2c9e-4987-ae4a-8c859aec0111</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-root[@id='app-root']/cu-app-shell/cu-manager/div[2]/cu-copy-item-toast</value>
+      <webElementGuid>6234c497-18b1-4644-b313-b6014abdbe23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='add new status'])[2]/following::cu-copy-item-toast[1]</value>
+      <webElementGuid>83b8a823-4a17-452d-a3fa-514668ee3684</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Calculate'])[3]/following::cu-copy-item-toast[1]</value>
+      <webElementGuid>509911f2-2d34-4e13-8106-e7fbdaa3a529</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//cu-copy-item-toast</value>
+      <webElementGuid>5747fe66-547e-4227-a7a2-c33b87ce4d7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//cu-copy-item-toast[(text() = 'test bla Created! Open(1) Tray  (2)  Copy URL  (3) ' or . = 'test bla Created! Open(1) Tray  (2)  Copy URL  (3) ')]</value>
+      <webElementGuid>8d5ee7a3-fc6a-4a01-91fa-a069a580e4f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
